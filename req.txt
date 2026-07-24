@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+PyMuPDF
+numpy
+sentence-transformers
+python-docx
+python-pptx
