@@ -6,3 +6,4 @@ numpy
 sentence-transformers
 python-docx
 python-pptx
+python-dotenv
